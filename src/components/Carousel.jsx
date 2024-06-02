@@ -17,7 +17,7 @@ function Carousel() {
 
   return (
     <div id="carousel">
-      <div className="flex overflow-x-scroll snap-x gap-4 h-full carousel-scrollbar pb-8">
+      <div className="flex overflow-x-auto snap-x gap-4 h-full carousel-scrollbar pb-8">
         {data &&
           data.map((item, index) => (
             <div
