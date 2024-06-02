@@ -1,0 +1,162 @@
+[
+    {
+        "id":"1",
+        "rating":"5",
+        "image":{"url":"/sample-image-01.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":true
+    },
+    {
+        "id":"2",
+        "rating":"4",
+        "image":{"url":"/sample-image-02.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":false
+    },
+    {
+        "id":"3",
+        "rating":"3.5",
+        "image":{"url":"/sample-image-03.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":true
+    },
+    {
+        "id":"4",
+        "rating":"2",
+        "image":{"url":"/sample-image-04.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":true
+    },
+    {
+        "id":"5",
+        "rating":"1",
+        "image":{"url":"/sample-image-05.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":false
+    },
+    {
+        "id":"6",
+        "rating":"5",
+        "image":{"url":"/sample-image-06.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":true
+    },
+    {
+        "id":"7",
+        "rating":"4",
+        "image":{"url":"/sample-image-07.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":false
+    },
+    {
+        "id":"8",
+        "rating":"3",
+        "image":{"url":"/sample-image-08.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":true
+    },
+    {
+        "id":"9",
+        "rating":"5",
+        "image":{"url":"/sample-image-09.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":true
+    },
+    {
+        "id":"10",
+        "rating":"4",
+        "image":{"url":"/sample-image-10.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":true
+    },
+    {
+        "id":"11",
+        "rating":"3",
+        "image":{"url":"/sample-image-11.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":true
+    },
+    {
+        "id":"12",
+        "rating":"2",
+        "image":{"url":"/sample-image-12.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":true
+    },
+    {
+        "id":"13",
+        "rating":"1",
+        "image":{"url":"/sample-image-13.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":false
+    },
+    {
+        "id":"14",
+        "rating":"5",
+        "image":{"url":"/sample-image-14.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":false
+    },
+    {
+        "id":"15",
+        "rating":"4",
+        "image":{"url":"/sample-image-15.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":true
+    },
+    {
+        "id":"16",
+        "rating":"3",
+        "image":{"url":"/sample-image-16.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":true
+    },
+    {
+        "id":"17",
+        "rating":"2",
+        "image":{"url":"/sample-image-17.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":true
+    },
+    {
+        "id":"18",
+        "rating":"1",
+        "image":{"url":"/sample-image-18.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":false
+    },
+    {
+        "id":"19",
+        "rating":"5",
+        "image":{"url":"/sample-image-19.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":true
+    },
+    {
+        "id":"20",
+        "rating":"4",
+        "image":{"url":"/sample-image-20.jpg", "name":"John Doe"},
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "isRecommended":true
+    }
+]
